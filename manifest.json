@@ -1,0 +1,13 @@
+{
+    "name": "Trending Jokes",
+    "description": "Get a New Joke Everytime",
+    "version": "1.0",
+    "manifest_version": 3,
+    "action": {
+        "default_popup": "Popup.html",
+        "default_icon": "jokes-icon.jpg"
+    },
+  "icons":{
+    "128":"jokes-icon.jpg"
+  }
+}
